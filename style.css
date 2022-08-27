@@ -1,0 +1,72 @@
+:root {
+  --main: #ceab36da;
+  --second: #d18995;
+  --third: #999913;
+  --choc: #9e3704;
+  --leet: #b49d9d;
+}
+
+.navbar {
+  background-color: var(--main);
+  font-family: fantasy;
+
+}
+
+
+.topy-boi {
+  background-size: cover;
+  background-position: auto;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngpYEr5TUWc-7IoBhh5n3nwgp-ves6A2yVQ&usqp=CAU");
+
+}
+
+.karpedeem {
+  background-color: var(--leet);
+}
+
+
+
+
+
+.info-card {
+  border-style: solid;
+
+
+}
+
+
+
+.info-card-middle {
+  border-style: solid;
+
+}
+
+.botty-boi {
+  background-color: var(--second)
+}
+
+.feet {
+  background-color: #999913;
+}
+
+.botty-tag {
+  color: var(--choc)
+}
+
+@media screen AND (min-width:800px) {
+  .cardf {
+    position: absolute;
+  }
+
+
+}
+
+@media screen AND (max-width:700px) {
+
+  .cardf {
+    position: none;
+
+  }
+
+
+}
